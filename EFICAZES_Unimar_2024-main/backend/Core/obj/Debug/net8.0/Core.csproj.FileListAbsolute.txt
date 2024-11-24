@@ -1,0 +1,44 @@
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Core\bin\Debug\net8.0\Core.dll
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.dll
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Core\bin\Debug\net8.0\Core.dll
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.dll
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Core\obj\Debug\net8.0\ref\Core.dll

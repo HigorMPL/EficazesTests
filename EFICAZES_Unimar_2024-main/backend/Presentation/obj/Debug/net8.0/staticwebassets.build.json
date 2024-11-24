@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "p2oACeowt867vpdEdrx+aUuGYxR/G88AXvce7DDFlV0=",
+  "Source": "Presentation",
+  "BasePath": "_content/Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Presentation\\wwwroot",
+      "Source": "Presentation",
+      "ContentRoot": "C:\\Users\\Higu\\Desktop\\Nova pasta (2)\\EFICAZES_Unimar_2024-main\\backend\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Higu\\Desktop\\Nova pasta (2)\\EFICAZES_Unimar_2024-main\\backend\\Presentation\\wwwroot\\clientes\\75b4eea5-5fdb-4868-bc7b-97453b0430f9.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Higu\\Desktop\\Nova pasta (2)\\EFICAZES_Unimar_2024-main\\backend\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "clientes/75b4eea5-5fdb-4868-bc7b-97453b0430f9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\clientes\\75b4eea5-5fdb-4868-bc7b-97453b0430f9.jpg"
+    }
+  ]
+}

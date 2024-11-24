@@ -1,0 +1,68 @@
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Core.dll
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Core.pdb
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\pc\Desktop\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Core.dll
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Core.pdb
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\julio\Downloads\Eficazes - projeto (2)\Eficazes - projeto\backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Core.dll
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Core.pdb
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Higu\Desktop\Nova pasta\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Core.dll
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Core.pdb
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Higu\Desktop\Nova pasta (2)\EFICAZES_Unimar_2024-main\backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
